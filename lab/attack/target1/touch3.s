@@ -1,0 +1,4 @@
+mov $0x12345678,%rdi
+sub $0x30,%rsp
+push $0x4018fa
+ret
